@@ -1,0 +1,15 @@
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\bin\Debug\net6.0\Patron.exe
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\bin\Debug\net6.0\Patron.deps.json
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\bin\Debug\net6.0\Patron.runtimeconfig.json
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\bin\Debug\net6.0\Patron.dll
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\bin\Debug\net6.0\Patron.pdb
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.csproj.AssemblyReference.cache
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.AssemblyInfoInputs.cache
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.AssemblyInfo.cs
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.dll
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\refint\Patron.dll
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.pdb
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\Patron.genruntimeconfig.cache
+C:\Users\Guillermo\Downloads\patronstrategy-main\patronstrategy-main\obj\Debug\net6.0\ref\Patron.dll
